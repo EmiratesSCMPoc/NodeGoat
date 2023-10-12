@@ -1,6 +1,6 @@
 {
   "name": "OWASP NodeGoat",
-  "description": "Educational tool to learn about OWASP Top 10 for node.js apps.",
+  "description": "Educational tool to learn about OWASP Top 10 for node.js apps. for EDU",
   "keywords": [
     "security",
     "node.js",
